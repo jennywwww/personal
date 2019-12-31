@@ -1,2 +1,2 @@
 # personal
-Personal website
+Personal website, built to practice basic html.
